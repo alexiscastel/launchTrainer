@@ -1,0 +1,1 @@
+This directory contains past telemetry data for testing purposes.
